@@ -7,9 +7,9 @@ export default function BookList() {
    return (
       <div>
          <h3>{pageTitle}</h3>
-         <img src={book1} alt="The Castle by Franz Kafka" />
-         <img src={book2} alt="Play It As It Lays by Joan Didion" />
-         <img src={book3} alt="The Fire Next Time by James Baldwin" />
+         <img src={book1} alt="The Castle by Franz Kafka" width = "150px" height="200px"/>
+         <img src={book2} alt="Play It As It Lays by Joan Didion" width = "150px" height="200px"/>
+         <img src={book3} alt="The Fire Next Time by James Baldwin" width = "150px" height="200px"/>
       </div>      
    );
 }

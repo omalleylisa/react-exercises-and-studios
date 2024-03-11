@@ -2,9 +2,11 @@
    color:rgb(39, 131, 39);
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    font-style: italic;
+   text-align: center;
 }
 
 .choresHeading {
    color: rgb(16, 114, 235);
    text-decoration: underline;
+   text-align: center;
 }
