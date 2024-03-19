@@ -1,17 +1,17 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+     "name": "Rigatoni Alla Vodka",
+     "author": "Deb Perelman",
+     "description": "An easy but delicious version of the classic pasta dish.",
+     "website": "https://smittenkitchen.com/2021/02/rigatoni-alla-vodka/",
+     "recipeImage": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2021/02/rigatoni-alla-vodka-1-scaled.jpg?resize=1536%2C1024&ssl=1",
+     "authorImage": "https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2006/06/deb-perelman-headshot-2017.jpg?w=640&ssl=1",
      "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
+       "dried rigatoni",
+       "olive oil",
+       "shallots",
+       "vodka",
+       "tomato paste"
      ]
    }
  ]
