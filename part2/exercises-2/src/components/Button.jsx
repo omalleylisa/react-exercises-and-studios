@@ -2,10 +2,16 @@ import './styles.css';
 
 function Button() {
 
+  // new function to hold the alert
+   function onLearnMore(){ 
+      alert("Splish Splash!");
+   };   
+
+   // activate on click 
    return ( 
-         <button>
-            Learn More
-         </button>
+      <button onClick={onLearnMore}>
+         Learn More
+      </button>
    );
 }
 
